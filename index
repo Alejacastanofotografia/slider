@@ -6,10 +6,7 @@
 </head>
 <body>
     <div class="contenedor">
-        <img class="image"src="https://github.com/Alejacastanofotografia/Slider/tree/gh-pages/Slider/img1.jpg">
-        <img class="image"src="https://github.com/Alejacastanofotografia/Slider/tree/gh-pages/Slider/img1.jpg">
-        <img class="image"src="https://github.com/Alejacastanofotografia/Slider/tree/gh-pages/Slider/img1.jpg">
-        <img class="image"src="https://github.com/Alejacastanofotografia/Slider/tree/gh-pages/Slider/img1.jpg">
+        <img class="image"src="Slider/img1.jpg">
     </div>
 <sytle>
 .contenedor {
