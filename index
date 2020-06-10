@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Galeiras</title>
+</head>
+<body>
+    <div class="contenedor">
+        <img class="image"src="https://github.com/Alejacastanofotografia/Slider/tree/gh-pages/Slider/img1.jpg">
+        <img class="image"src="https://github.com/Alejacastanofotografia/Slider/tree/gh-pages/Slider/img1.jpg">
+        <img class="image"src="https://github.com/Alejacastanofotografia/Slider/tree/gh-pages/Slider/img1.jpg">
+        <img class="image"src="https://github.com/Alejacastanofotografia/Slider/tree/gh-pages/Slider/img1.jpg">
+    </div>
+<sytle>
+.contenedor {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.image {
+    widht: 100px;
+    height: 60px;
+    object-fit: contain;
+}
+</sytle>
+</body>
+</html>
