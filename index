@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Galeiras</title>
+    <title>Galerias</title>
 </head>
 <body>
     <div class="contenedor">
@@ -11,7 +11,7 @@
         <img class="image"src="Slider/img3.jpg">
         <img class="image"src="Slider/img4.jpg">
     </div>
-<sytle>
+<style>
 .contenedor {
     width: 80%;
     margin: auto;
@@ -25,6 +25,6 @@
     height: 60px;
     object-fit: contain;
 }
-</sytle>
+</style>
 </body>
 </html>
